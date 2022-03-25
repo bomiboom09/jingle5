@@ -1,0 +1,121 @@
+<html>
+<head>
+<title> Practical Exam </title>
+</head>
+<body background = "2.jpg">
+<font color ="white">
+<h1> <marquee> <font color ="Chartreuse"> Survival Awareness </font color ="Chartreuse"> </marquee> </h1>
+<hr>
+<center>
+<video width="320" height="240" controls>
+  <source src="hi.mp4" type="video/mp4">
+</video>
+<h2>
+<font color ="salmon"> <b> Anchelle: </b> </font color ="salmon"> <br />
+You must know, know, know how to do it <br />
+When an earthquake happens do not panic <br />
+Always stay calm and be prepared <br />
+When a typhoon occurs <br />
+<br />
+<font color ="LightSkyBlue "> <b>Mikaela:</b> </font color ="LightSkyBlue "> <br />
+You must know, know, know how to do it <br />
+Listen to the radio or television <br />
+Always stay calm and be prepared <br />
+When a typhoon occurs <br />
+<br />
+<font color ="NavajoWhite"> <b>Marithe:</b> </font color ="NavajoWhite"><br />
+Before the quake <br />
+Make a survival kit <br />
+Always be ready <br />
+Go make an earthquake plan <br />
+For the family <br />
+And of course <br />
+You should be ready, always be ready <br />
+<br />
+<font color ="hotpink"><b>Mary:</b></font color ="hotpink"> <br />
+Before typhoons <br />
+Seek a safe shelter soon <br />
+Listen to weather news <br />
+Have some spare batteries <br />
+If your device’s battery, ever runs out <br />
+You should be ready, always be ready  <br />
+ <br />
+<font color ="lavender"><b>Leur:</b> </font color ="lavender"><br />
+Mama said don't give up, it may look so hard at first sight <br />
+But with Lord, our God, there's no room for terror or fright <br />
+<br />
+<font color ="salmon">Anchelle:</b></font color ="salmon"> <br />
+You must know, know, know how to do it <br />
+When an earthquake happens do not panic <br />
+Always stay calm and be <br />
+When a typhoon occurs <br />
+<br />
+<font color ="LightSkyBlue "><b>Mikaela:</font color ="LightSkyBlue "> </b><br />
+You must know, know, know how to do it <br />
+Listen to the radio or television <br />
+Always stay calm and be prepared <br />
+When a typhoon occurs (When a typhoon occurs) <br />
+<br />
+<font color ="plum"><b>Julia:</b></font color ="plum"> <br />
+Disasters can <br />
+Happen so easily <br />
+So strength is the key <br />
+For our society <br />
+Stay out of your broken homes <br />
+Dry all the place <br />
+Pray to the Lord our God, the Lord our God <br />
+ <br />
+<font color ="hotpink"><b>Mary:</b></font color ="hotpink"> <br />
+Always be aware <br />
+Stay safe and look out for things that might drop, no <br />
+Stay up on the news <br />
+Follow the rules, drop cover and hold <br />
+<br />
+<font color ="lavender"><b>Leur:</b></font color ="lavender"> <br />
+Mama said don't give up, it may look so hard at first sight <br />
+But with Lord, our God, there's no room for terror or fright <br />
+ <br />
+<font color ="NavajoWhite"><b>Marithe:</b></font color ="NavajoWhite"> <br />
+Keep an eye on the ground and wait for all of you to be found <br />
+Make sure that you are fine and look out for the aftershocks <br />
+<br />
+<font color ="salmon"><b>Anchelle:</b> </font color ="salmon"> <br />
+You must know, know, know how to do it <br />
+When an earthquake happens do not panic <br />
+Always stay calm and be prepared  <br />
+When a typhoon occurs <br />
+<br />
+<font color ="LightSkyBlue "><b>Mikaela:</b></font color ="LightSkyBlue"> <br />
+You must know, know, know how to do it <br />
+When an earthquake happens do not panic <br />
+Always stay calm and be prepared <br />
+When a typhoon occurs <br />
+<br />
+<font color ="plum"><b>Julia:</b></font color ="plum"> <br />
+You must know, know, know how to do it <br />
+ <br />
+<font color ="aqua"><b>Marithe: </b></font color ="aqua"><br />
+Listen to the radio or television <br />
+<br />
+<font color ="hotpink"><b>Mary: </b></font color ="hotpink"><br />
+Always stay calm and be prepared <br />
+<br />
+<font color ="lavender"><b>Leur:</b> </font color ="lavender"><br />
+When a typhoon occurs <br />
+<br />
+<font color ="LightSkyBlue "><b>Mikaela:</b> </font color ="LightSkyBlue "><br />
+You must know, know, know how to do it <br />
+<br />
+<font color ="salmon"><b>Anchelle:</b> </font color ="salmon"><br />
+Listen to the radio or television <br />
+<br />
+<font color ="plum"><b>Julia:</b></font color ="plum"> <br />
+Always stay calm and be prepared <br />
+<br />
+<font color ="NavajoWhite"><b>Marithe:</b></font color ="NavajoWhite"> <br />
+When a typhoon occurs <br />
+</h2>
+</center>
+</font>
+</body>
+</html>
